@@ -28,4 +28,3 @@
 - 「LINEBotで帰ってきた天気がなぜあんなにスペースだらけなのか」
     - それは僕ではなく気象庁に聞いてください。気象庁の公開されているJSONファイルからとってきているので、下記URLを参照ください。
     - (https://www.jma.go.jp/bosai/forecast/data/forecast/130000.json)
--　またこのREADMEも提出物なので採点よろしくお願いします。
