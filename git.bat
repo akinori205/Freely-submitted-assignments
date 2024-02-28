@@ -1,7 +1,7 @@
 @echo off
 setlocal
 set /p comment=please add comments:
-cd "C:\Users\hirase naoki\python-git"
+cd "自身のローカルリポジトリ"
 echo git add .
 git add .
 echo git add .
